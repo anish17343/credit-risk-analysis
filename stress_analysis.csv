@@ -1,0 +1,5 @@
+employment_type,total_borrowers,avg_income_loan_ratio,avg_dti,avg_interest_rate,default_rate_pct
+Unemployed,63824,1.303,0.5,13.5,13.55
+Part-time,64161,1.321,0.501,13.5,11.97
+Self-employed,63706,1.317,0.5,13.48,11.46
+Full-time,63656,1.342,0.5,13.49,9.46

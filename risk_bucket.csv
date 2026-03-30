@@ -1,0 +1,5 @@
+risk_bucket,total_loans,total_defaults,default_rate_pct,avg_loan_amount,avg_interest_rate
+"Excellent (750+)",46574,4696,10.08,127532,13.5
+"Good (670–749)",36703,3928,10.70,127230,13.51
+"Fair (580–669)",41847,4784,11.43,128377,13.5
+"Poor (<580)",130223,16245,12.47,127437,13.48

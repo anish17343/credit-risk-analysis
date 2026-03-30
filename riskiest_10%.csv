@@ -1,0 +1,2 @@
+segment,borrowers,avg_dti,avg_credit_score,avg_income,avg_loan_amount,default_rate_pct,avg_monthly_interest
+"Top 10% highest DTI",25535,0.86,574,82612,127670,12.15,1439.6

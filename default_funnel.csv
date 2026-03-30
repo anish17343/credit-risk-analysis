@@ -1,0 +1,5 @@
+age_group,loan_term,total,defaults,default_rate_pct,avg_loan_amount
+"Under 30",60,11677,2349,20.12,128644
+30–45,36,15765,2063,13.09,126832
+46–60,12,14784,1198,8.10,127159
+"Over 60",36,8876,466,5.25,129276
